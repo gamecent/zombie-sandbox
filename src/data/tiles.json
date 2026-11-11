@@ -1,0 +1,8 @@
+[
+  {"id":"grass","name":"草地","layer":"ground","solid":false,"autotile":true},
+  {"id":"dirt","name":"泥土","layer":"ground","solid":false,"autotile":true},
+  {"id":"water","name":"水","layer":"ground","solid":true,"autotile":true},
+  {"id":"tree","name":"树","layer":"block","solid":true,"hp":25,"tool":"axe","drops":[{"item":"wood","min":3,"max":5}],"autotile":false},
+  {"id":"rock","name":"石头","layer":"block","solid":true,"hp":40,"tool":"pickaxe","drops":[{"item":"stone","min":2,"max":3}],"autotile":false},
+  {"id":"wall_wood","name":"木墙","layer":"block","solid":true,"hp":100,"tool":"axe","drops":[{"item":"wood","min":2,"max":2}],"buildCost":[{"item":"wood","count":4}],"autotile":true}
+]

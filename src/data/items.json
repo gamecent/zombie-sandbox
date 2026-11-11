@@ -1,0 +1,5 @@
+[
+  {"id":"wood","name":"木头","stack":99,"type":"material"},
+  {"id":"stone","name":"石头","stack":99,"type":"material"},
+  {"id":"hand","name":"徒手","stack":1,"type":"tool","damage":5,"harvestPower":5,"staminaCost":2}
+]

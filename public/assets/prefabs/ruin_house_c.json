@@ -1,0 +1,120 @@
+{
+ "id": "ruin_house_c",
+ "w": 5,
+ "h": 5,
+ "anchor": "top_left",
+ "cell": 16,
+ "layers": {
+  "floor": [
+   [
+    "floor_ruin_1",
+    "floor_ruin",
+    "floor_ruin",
+    "floor_ruin",
+    "floor_ruin"
+   ],
+   [
+    "floor_ruin",
+    "floor_ruin",
+    "floor_ruin_2",
+    "floor_ruin",
+    "floor_ruin"
+   ],
+   [
+    "floor_ruin",
+    "floor_ruin",
+    "floor_ruin",
+    "floor_ruin_2",
+    "floor_ruin_1"
+   ],
+   [
+    "floor_ruin",
+    "floor_ruin_1",
+    "floor_ruin",
+    "floor_ruin",
+    "floor_ruin"
+   ],
+   [
+    "floor_ruin",
+    "floor_ruin",
+    "floor_ruin",
+    "floor_ruin_1",
+    "floor_ruin"
+   ]
+  ],
+  "walls": [
+   [
+    "wall_ruin_corner",
+    "wall_ruin_broken_2",
+    null,
+    null,
+    "wall_ruin_corner"
+   ],
+   [
+    "wall_ruin",
+    null,
+    null,
+    null,
+    "wall_ruin_broken_1"
+   ],
+   [
+    "wall_ruin",
+    null,
+    null,
+    null,
+    "wall_ruin"
+   ],
+   [
+    "wall_ruin",
+    null,
+    null,
+    null,
+    "wall_ruin"
+   ],
+   [
+    "wall_ruin_corner",
+    "wall_ruin",
+    "wall_ruin_door",
+    "wall_ruin",
+    "wall_ruin_corner"
+   ]
+  ],
+  "objects": [
+   [
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   [
+    null,
+    null,
+    null,
+    "can",
+    null
+   ],
+   [
+    null,
+    "crate_ruin_open",
+    null,
+    null,
+    null
+   ],
+   [
+    null,
+    null,
+    null,
+    "decor_rubble",
+    null
+   ],
+   [
+    null,
+    null,
+    null,
+    null,
+    null
+   ]
+  ]
+ }
+}

@@ -1,0 +1,29 @@
+{
+  "dayNight": {
+    "cycle": 300,
+    "day": 180,
+    "dusk": 40,
+    "night": 80,
+    "startAt": 20,
+    "bloodMoonEvery": 7
+  },
+  "noise": {
+    "chop": 6,
+    "build": 4
+  },
+  "player": {
+    "swingCooldown": 0.45,
+    "reach": 1.25,
+    "hotbarSlots": 9,
+    "bestToolMultiplier": 2
+  },
+  "building": {
+    "buildTime": 0.4,
+    "crackStages": [
+      0.75,
+      0.5,
+      0.25
+    ],
+    "wallPathCost": 20
+  }
+}
